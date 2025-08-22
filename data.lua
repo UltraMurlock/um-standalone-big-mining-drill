@@ -1,0 +1,5 @@
+require("prototypes.item")
+require("prototypes.recipe")
+require("prototypes.technology")
+require("prototypes.big-mining-drill")
+require("prototypes.entity.explosions")
