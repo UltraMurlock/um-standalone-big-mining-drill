@@ -11,17 +11,18 @@ data:extend {
         recipe = "big-mining-drill"
       }
     },
-    prerequisites = {"electric-engine", "electric-mining-drill"},
+    prerequisites = {"production-science-pack", "electric-engine", "electric-mining-drill"},
     unit =
     {
       ingredients =
       {
         {"automation-science-pack", 1},
         {"logistic-science-pack", 1},
-        {"chemical-science-pack", 1}
+        {"chemical-science-pack", 1},
+        {"production-science-pack", 1},
       },
-      time = 30,
-      count = 500
+      time = 60,
+      count = 150
     }
   }
 }
