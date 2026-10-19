@@ -2,7 +2,7 @@ data:extend {
   {
     type = "recipe",
     name = "big-mining-drill",
-    categories = { "metallurgy-or-assembling" },
+    categories = { "crafting", "metallurgy" },
     enabled = false,
     energy_required = 30,
     ingredients =

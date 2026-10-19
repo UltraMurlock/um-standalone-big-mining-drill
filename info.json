@@ -4,10 +4,7 @@
   "author": "UltraMurlock",
   "title": "Standalone Big Mining Drill",
   "description": "Add space age big mining drill as standalone.",
-  "dependencies": [
-    "!space-age",
-    "um-standalone-space-age-lib"
-  ],
+  "dependencies": ["!space-age", "um-standalone-space-age-lib >= 1.2.0"],
   "factorio_version": "2.1",
   "space_travel_required": true
 }
